@@ -1,0 +1,11 @@
+c:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\SimplifyTransformation\bin\Debug\netcoreapp3.0\SimplifyTransformation.exe
+C:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\SimplifyTransformation\bin\Debug\netcoreapp3.0\SimplifyTransformation.deps.json
+C:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\SimplifyTransformation\bin\Debug\netcoreapp3.0\SimplifyTransformation.runtimeconfig.json
+C:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\SimplifyTransformation\bin\Debug\netcoreapp3.0\SimplifyTransformation.runtimeconfig.dev.json
+c:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\SimplifyTransformation\bin\Debug\netcoreapp3.0\SimplifyTransformation.dll
+c:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\SimplifyTransformation\bin\Debug\netcoreapp3.0\SimplifyTransformation.pdb
+c:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\SimplifyTransformation\obj\Debug\netcoreapp3.0\SimplifyTransformation.csprojAssemblyReference.cache
+c:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\SimplifyTransformation\obj\Debug\netcoreapp3.0\SimplifyTransformation.AssemblyInfoInputs.cache
+c:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\SimplifyTransformation\obj\Debug\netcoreapp3.0\SimplifyTransformation.AssemblyInfo.cs
+c:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\SimplifyTransformation\obj\Debug\netcoreapp3.0\SimplifyTransformation.dll
+c:\Users\dejim\OneDrive\Documents\INTEC\Tendencias\SimplifyTransformation\obj\Debug\netcoreapp3.0\SimplifyTransformation.pdb
